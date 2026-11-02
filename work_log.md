@@ -28,3 +28,24 @@ I learned how to retrieve and filter data using SQL. I also learned why validati
 - sales_results.csv
 - README.md
 - work_log.md
+## Week 1 — Day 2: SQL JOINs
+
+### Tasks Completed
+- Practiced INNER JOIN, LEFT JOIN, and RIGHT JOIN.
+- Simulated FULL OUTER JOIN using UNION.
+- Investigated duplicate rows in JOIN results.
+- Practiced SELF JOIN using an employee-manager relationship.
+- Used table aliases in SQL queries.
+
+### AI Tutor Insights
+- INNER JOIN returns only matching records from both tables.
+- LEFT JOIN returns every record from the left table, including unmatched records.
+- Duplicate rows can occur when multiple records match the JOIN condition.
+- SELF JOIN is useful for finding relationships within the same table.
+
+### Business Reporting Example
+A retail company can use INNER JOIN to report products with sales. LEFT JOIN can show all products, including products that have not been sold.
+
+### Deliverables
+- `queries_day2.sql`
+- Day 2 CSV results, if required.
