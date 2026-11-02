@@ -28,3 +28,45 @@ I learned how to retrieve and filter data using SQL. I also learned why validati
 - sales_results.csv
 - README.md
 - work_log.md
+## Week 1 — Day 2: SQL JOINs
+
+### Tasks Completed
+- Practiced INNER JOIN, LEFT JOIN, and RIGHT JOIN.
+- Simulated FULL OUTER JOIN using UNION.
+- Investigated duplicate rows in JOIN results.
+- Practiced SELF JOIN using an employee-manager relationship.
+- Used table aliases in SQL queries.
+
+### AI Tutor Insights
+- INNER JOIN returns only matching records from both tables.
+- LEFT JOIN returns every record from the left table, including unmatched records.
+- Duplicate rows can occur when multiple records match the JOIN condition.
+- SELF JOIN is useful for finding relationships within the same table.
+
+### Business Reporting Example
+A retail company can use INNER JOIN to report products with sales. LEFT JOIN can show all products, including products that have not been sold.
+
+### Deliverables
+- `queries_day2.sql`
+- Day 2 CSV results, if required.
+## SQL Fundamentals — Week 1, Day 2
+
+### Objective
+Practice SQL JOINs to combine data from related tables.
+
+### Tasks Completed
+- Practiced INNER JOIN to return matching records from both tables.
+- Practiced LEFT JOIN to return all records from the left table and matching records from the right table.
+- Practiced RIGHT JOIN to return all records from the right table and matching records from the left table.
+- Practiced FULL OUTER JOIN using an appropriate alternative where necessary.
+- Learned how duplicate rows can occur when joining tables and how to investigate them.
+- Practiced SELF JOIN and table aliases.
+
+### CIA Learning
+Learned that INNER JOIN returns only matching records, while LEFT JOIN preserves all records from the left table, including those without a match. These joins are useful for business reports, such as matching products with sales and identifying products that have not been sold.
+
+### Deliverable
+`queries_day2.sql`
+
+### GitHub
+Day 2 SQL JOIN queries uploaded to the repository.
