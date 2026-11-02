@@ -27,4 +27,7 @@ I learned how to retrieve and filter data using SQL. I also learned why validati
 - queries_day1.sql
 - sales_results.csv
 - README.md
-- work_log.md
+- work_log.md## Week 1 Day 1 — Submission Status
+
+- SQL queries and CSV results uploaded to GitHub.
+- Practiced filtering, sorting, aggregate functions, and GROUP BY.
