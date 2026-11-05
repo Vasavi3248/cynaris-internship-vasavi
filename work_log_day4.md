@@ -82,3 +82,25 @@ pushed. - \[ \] Pull Request created with the deliverable linked. - \[
 The practical exercises helped me understand how subqueries and CTEs can
 be used to solve multi-step data analysis problems. I also learned to
 organize complex SQL logic into smaller, understandable steps.
+## CIA Session Insights – Day 4
+
+**Topic:** SQL Subqueries and CTEs
+
+**Question asked:**
+When should I use a CTE versus a subquery, and what are the performance trade-offs?
+
+**Insights learned:**
+
+- Subqueries are useful for simple calculations and filtering.
+- CTEs improve readability and organization of complex SQL queries.
+- CTEs can help divide complex problems into smaller steps.
+- Performance depends on the database engine and execution plan.
+- EXPLAIN can be used to analyze query performance.
+
+**Career Application:**
+
+These concepts are useful for Data Analyst and SQL Developer roles. They help in analyzing large datasets, preparing reports, calculating business metrics, and writing maintainable SQL queries.
+
+**Learning Outcome:**
+
+I learned how to choose between subqueries and CTEs based on query complexity, readability, and performance requirements.
