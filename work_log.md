@@ -28,3 +28,43 @@ I learned how to retrieve and filter data using SQL. I also learned why validati
 - sales_results.csv
 - README.md
 - work_log.md
+# Week 2 – Day 1: Data Visualisation
+
+## Objective
+To create professional data visualisations using Matplotlib and Seaborn.
+
+## Tasks Completed
+- Loaded the Iris dataset using Scikit-learn.
+- Explored the dataset using Pandas.
+- Created a line chart.
+- Created a bar chart.
+- Created a scatter plot.
+- Created a histogram.
+- Created a box plot.
+- Applied Seaborn themes.
+- Added chart titles, labels and annotations.
+- Saved visualisations as PNG files.
+- Uploaded the Jupyter Notebook and dataset to GitHub.
+- Created a Pull Request.
+
+## AI Task Insights
+Learned that different chart types are suitable for different data relationships:
+- Line charts for trends.
+- Bar charts for category comparisons.
+- Scatter plots for relationships.
+- Histograms for distributions.
+- Box plots for outliers and spread.
+
+## Tools Used
+Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook and GitHub.
+
+## Learning Outcomes
+Learned how to visualize data, identify patterns, compare categories and interpret distributions.
+
+## Deliverables
+- visualisations.ipynb
+- iris_dataset.csv
+- Five PNG chart images
+
+## Status
+Completed.
