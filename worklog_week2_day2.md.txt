@@ -1,0 +1,48 @@
+# Work Log – Week 2 Day 2
+
+**Topic:** Pandas Advanced  
+**Internship:** Cynaris Technologies  
+**Name:** Vasavi
+
+## Objective
+To understand and perform advanced data manipulation operations using Pandas.
+
+## Tasks Completed
+
+### Task 1: DataFrame Merging
+- Implemented Inner Join.
+- Implemented Left Join.
+- Implemented Right Join.
+- Implemented Outer Join.
+- Implemented Cross Join.
+
+### Task 2: Pivot Table
+- Created a sales dataset.
+- Generated a pivot table using `pd.pivot_table()`.
+- Summarized sales by region and product.
+
+### Task 3: Data Reshaping
+- Converted wide-format data into long-format data.
+- Used the `pd.melt()` function.
+
+### Task 4: Method Chaining
+- Applied multiple Pandas operations.
+- Used filtering, sorting, and index resetting.
+
+## Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+- Anaconda
+- GitHub
+
+## Learning Outcomes
+- Understood different types of DataFrame joins.
+- Learned how to create pivot tables.
+- Understood wide and long data formats.
+- Practiced method chaining in Pandas.
+
+## Deliverable
+`advanced_pandas.ipynb`
+
+**Status:** Completed and uploaded to GitHub through a Pull Request.
