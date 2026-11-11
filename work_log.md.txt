@@ -1,0 +1,40 @@
+# Week 2 – Day 3 Work Log
+## Topic: Exploratory Data Analysis (EDA) Workflow
+
+### Objective
+To perform Exploratory Data Analysis on a Sales dataset and identify useful patterns, relationships and business insights.
+
+### Tasks Completed
+1. Loaded the Sales dataset using Pandas.
+2. Checked dataset shape, column names and data types.
+3. Identified missing values and duplicate records.
+4. Generated summary statistics.
+5. Created histograms for all numerical columns.
+6. Identified correlations using a heatmap.
+7. Analyzed the dataset and documented five business insights with supporting charts.
+8. Saved the summary statistics table as a CSV file.
+
+### Tools and Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+### Deliverables
+- eda_report.ipynb
+- sales_data_1200_rows.csv
+- summary_statistics.csv
+- charts folder
+- README.md
+
+### Learning Outcomes
+- Understood the EDA workflow.
+- Learned how to profile datasets.
+- Practiced data visualization techniques.
+- Understood correlation analysis.
+- Learned to identify business insights from data.
+
+### Status
+Completed all practical tasks for Week 2 – Day 3.
